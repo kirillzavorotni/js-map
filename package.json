@@ -1,0 +1,25 @@
+{
+  "name": "js-map",
+  "version": "1.0.0",
+  "description": "Please define a new JavaScript object called ‘Map’ that can be instantiated with ‘new’, using its constructor. The constructor takes one parameter - this list of cities and their latitudes and longitudes:",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kirillzavorotni/js-map.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kirillzavorotni/js-map/issues"
+  },
+  "homepage": "https://github.com/kirillzavorotni/js-map#readme",
+  "devDependencies": {
+    "eslint": "^5.9.0",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-import": "^2.14.0"
+  }
+}
